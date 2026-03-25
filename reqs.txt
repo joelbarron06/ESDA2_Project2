@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+basemap
+os
+netCDF4
+cmocean
+seaborn
+scipy
